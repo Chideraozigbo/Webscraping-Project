@@ -8,9 +8,9 @@ This project revolves around the web scraping of the [EverybodyWiki](https://web
 
 - **Web Scraping Approach:** Python, along with the BeautifulSoup library, was employed to navigate and extract film details, including titles, directors, and ranks.
 
-- **Data Analysis Notebook:** The Jupyter Notebook **Web_Scraping_Project.ipynb** provides a comprehensive walkthrough of the web scraping process, data cleaning, and basic analysis. Visualizations and insights about the top 100 films are showcased.
+- **Data Analysis Notebook:** The Jupyter Notebook **Web_Scraping.ipynb** provides a comprehensive walkthrough of the web scraping process, data cleaning, and basic analysis. Visualizations and insights about the top 100 films are showcased.
 
-- **CSV Data:** The finalized dataset is saved as **most_highly_ranked_films.csv**, enabling easy sharing and additional exploration.
+- **CSV Data:** The finalized dataset is saved as **The_100_most_highly_ranked_films.csv**, enabling easy sharing and additional exploration.
 
 ## Notes
 
